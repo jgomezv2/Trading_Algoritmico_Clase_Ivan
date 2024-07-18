@@ -16,3 +16,8 @@ def robot_funcionando(a):
 robot_funcionando("hola")
 
 print("Ya estoy siendo más completo ")
+
+def funcionaca(a):
+    print(a)
+    
+funcionaca("version 2")
